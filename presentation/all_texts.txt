@@ -1,0 +1,7 @@
+$(cat /home/bogdan/work/obsi/SWT/presentation/01-software-engineering-slides.pdf.txt)
+$(cat /home/bogdan/work/obsi/SWT/presentation/02-practice-introduction-slides.txt)
+$(cat /home/bogdan/work/obsi/SWT/presentation/03-lifecycle-and-requirements-slides.txt)
+$(cat /home/bogdan/work/obsi/SWT/presentation/05-scrum-slides.txt)
+$(cat /home/bogdan/work/obsi/SWT/presentation/07-planning-slides.txt)
+$(cat /home/bogdan/work/obsi/SWT/presentation/09-project-management-slides.txt)
+$(cat /home/bogdan/work/obsi/SWT/presentation/11-testing-and-issue-management-slides.txt)
